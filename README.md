@@ -7,6 +7,11 @@ More about pusher.com web sockets api [here](https://pusher.com/docs/channels/us
 
 Pusher is an online web-socket message broker providing 200,000 messages per day free of charge, proving as a viable solution for small less frequent updated real-time applications.
 
+### Dependency
+
+WebSocketServiceESP32 must be linked
+[https://github.com/Edvinas1122/WebSocketServiceESP32.git](https://github.com/Edvinas1122/WebSocketServiceESP32.git)
+
 ### Event driven
 
 Due to nature of duplex communication, its best to follow *event driven design*.
