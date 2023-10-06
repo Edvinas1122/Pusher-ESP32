@@ -10,10 +10,10 @@
 	],
 	"repository": {
 	  "type": "git",
-	  "url": "https://github.com/Edvinas1122/WebSocketServiceESP32.git"
+	  "url": "https://github.com/Edvinas1122/Pusher-ESP32.git"
 	},
 	"license": "MIT",
 	"dependencies": {
-		"ExternalLibrary": "https://github.com/Edvinas1122/Pusher-ESP32.git"
+		"ExternalLibrary": "https://github.com/Edvinas1122/WebSocketServiceESP32.git"
 	  }
   }
