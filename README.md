@@ -62,7 +62,7 @@ void registerHandlers(
 You can subscribe to public channels like this
 
 ```cpp
-const char mainChannel = "a_channel_name"
+const char mainChannel[] = "a_channel_name"
 void autoSubscribeToChannel(
 	PusherService &socket,
 ) {
@@ -70,7 +70,7 @@ void autoSubscribeToChannel(
 		connectionEvent,
 		[](const String& message)
 			socket.Subscribe(mainChannel);
-	});
+	);
 };
 ```
 
