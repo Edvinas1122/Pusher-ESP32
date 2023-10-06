@@ -1,0 +1,19 @@
+{
+	"name": "Pusher-ESP32",
+	"version": "0.1.0-alpha",
+	"description": "Socket adapter on https://pusher.com/ server for ESP32",
+	"authors": [
+	  {
+		"name": "Edvinas Momkus",
+		"email": "edvinasmomkus@gmail.com"
+	  }
+	],
+	"repository": {
+	  "type": "git",
+	  "url": "https://github.com/Edvinas1122/WebSocketServiceESP32.git"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"ExternalLibrary": "https://github.com/Edvinas1122/Pusher-ESP32.git"
+	  }
+  }
