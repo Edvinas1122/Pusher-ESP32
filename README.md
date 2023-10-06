@@ -11,6 +11,7 @@ Pusher is an online web-socket message broker providing 200,000 messages per day
 
 WebSocketServiceESP32 must be linked
 [https://github.com/Edvinas1122/WebSocketServiceESP32.git](https://github.com/Edvinas1122/WebSocketServiceESP32.git)
+
 Connection - esp must be connected to wifi or a network
 
 ### Event driven
