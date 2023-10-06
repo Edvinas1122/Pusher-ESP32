@@ -170,7 +170,7 @@ const String requestAuthorize(const char* data[]) {
 
 Pseudo code for an authorization endpoint.
 
-```
+```ts
 async function routeHandler(params: any) {
 	console.log("API, pusher authorization request received:");
 	const user = getUserFromHeaders(); // middleware passed body to headers
