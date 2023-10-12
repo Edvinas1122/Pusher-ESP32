@@ -15,5 +15,5 @@
 	"license": "MIT",
 	"dependencies": {
 		"ExternalLibrary": "https://github.com/Edvinas1122/WebSocketServiceESP32.git"
-	  }
+	 }
   }
